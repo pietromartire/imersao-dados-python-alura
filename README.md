@@ -1,5 +1,6 @@
 ![Header.png](https://github.com/pietromartire/imersao-dados-python-alura/blob/main/Header.png?raw=true)
-*Dashboard Interativo de Salários na Área de Dados*
+# *Dashboard Interativo de Salários na Área de Dados*
+
 🚀 Demonstração ao Vivo
 Acesse o dashboard em funcionamento no seguinte link:
 https://dashboard-de-salarios.streamlit.app/
